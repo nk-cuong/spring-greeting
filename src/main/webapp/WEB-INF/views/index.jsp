@@ -7,6 +7,6 @@
 <title>Greeting</title>
 </head>
 <body>
-<h1>Hello Spring MVC ! yeah yeah</h1>
+<h1>Hello Spring MVC ! yeah yeah 123</h1>
 </body>
 </html>
